@@ -19,18 +19,10 @@ image
 Case by itself
 image image image Friction fitted (with clearance designed for 3d printing) (I can print this myself, but some filament could be nice)
 Firmware
-KMK based,
-Screen used for identifying layers, icon display, and signature display
-Neopixel used for backlight
-Custom rotary encoder decoding software from one analog pin
-Custom Key object designed for the rotary encoder multi function button
-Advanced use of macros and hotkeys for daily use
+- KMK based,
+- Screen used for identifying layers, icon display, and signature display
+- Custom rotary encoder decoding software from one analog pin
+- Custom Key object designed for the rotary encoder multi function button
+- Advanced use of macros and hotkeys for daily use
 ## BOM
-Qty,Item,Notes
-1,SEEEDUINO XIAO RP2040,Microcontroller board
-9,MX-style switches,5-pin preferred
-10,1N4148 through-hole diodes,For switch matrix
-1,SSD1306 128x32 OLED 0.91,I2C display
-9,Blank DSA keycaps,
-1,EC11 rotary encoder,
-
+Please refer to BOM.csv
