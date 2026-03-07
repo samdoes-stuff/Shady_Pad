@@ -26,4 +26,11 @@ Custom rotary encoder decoding software from one analog pin
 Custom Key object designed for the rotary encoder multi function button
 Advanced use of macros and hotkeys for daily use
 ## BOM
+Qty,Item,Notes
+1,SEEEDUINO XIAO RP2040,Microcontroller board
+9,MX-style switches,5-pin preferred
+10,1N4148 through-hole diodes,For switch matrix
+1,SSD1306 128x32 OLED 0.91,I2C display
+9,Blank DSA keycaps,
+1,EC11 rotary encoder,
 
