@@ -25,16 +25,5 @@ Neopixel used for backlight
 Custom rotary encoder decoding software from one analog pin
 Custom Key object designed for the rotary encoder multi function button
 Advanced use of macros and hotkeys for daily use
-BOM
-Qty	Item	Notes
-1	SEEEDUINO XIAO RP2040	Microcontroller board
-9	MX-style switches	
-9	1N4148 through-hole diodes	For switch matrix
-1	SSD1306 128x32 OLED 0.91"	I2C display
-9	Blank DSA keycaps	
-1	1x4 2.54mm female header	For raising display height
-1	EC11 rotary encoder	
-1	10kΩ metal film resistor	Part of voltage divider
-1	47kΩ metal film resistor	Voltage divider
-1	100kΩ metal film resistor	Voltage divider
-9	Kailh MX hot-swap sockets	For hot-swappable switches
+## BOM
+
