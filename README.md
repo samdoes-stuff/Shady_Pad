@@ -18,7 +18,7 @@ Schematic
 image
 Case by itself
 image image image Friction fitted (with clearance designed for 3d printing) (I can print this myself, but some filament could be nice)
-Firmware
+## Firmware
 - KMK based,
 - Screen used for identifying layers, icon display, and signature display
 - Custom rotary encoder decoding software from one analog pin
